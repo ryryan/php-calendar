@@ -147,7 +147,7 @@ class Calendar
 
         $color = $color ? : '';
         
-        $calendar .= '<table class="calendar ' . $color . '">';
+        $calendar .= '<table class="calendar ' . $color . ' table table-calendar">';
     
         $calendar .= '<thead>';
 
