@@ -21,7 +21,7 @@ class Calendar
      * @var DateTime
      */
     private $date;
-    private $tableClass;
+    public $tableClass;
 
     /**
      * The events array.
