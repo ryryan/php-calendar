@@ -1,6 +1,6 @@
 <?php
 
-namespace benhall14\phpCalendar;
+namespace ryryan\phpCalendar;
 
 use DateTime;
 use stdClass;
