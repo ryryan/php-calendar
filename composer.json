@@ -1,7 +1,7 @@
 {
     "name": "ryryan/php-calendar",
     "description": "A simple PHP class to generate calendars.",
-    "homepage": "https://github.com/benhall14/php-calendar",
+    "homepage": "https://github.com/ryryan/php-calendar",
     "keywords": ["calendar", "time", "date", "calendars"],
     "license": "MIT",
     "authors": [
