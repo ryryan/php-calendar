@@ -21,6 +21,7 @@ class Calendar
      * @var DateTime
      */
     private $date;
+    private $tableClass;
 
     /**
      * The events array.
@@ -147,7 +148,7 @@ class Calendar
 
         $color = $color ? : '';
         
-        $calendar .= '<table class="calendar ' . $color . ' table table-calendar">';
+        $calendar .= '<table class="calendar ' . $color . ' ' . $this->tableClass . '">';
     
         $calendar .= '<thead>';
 
